@@ -11,7 +11,7 @@ A day-by-day tasks and goals for the first 100 days of the course.
 
 ## Day 1
 
-- [x] Create a new GitHub repository for Angela YU Python coruse Code upload.
+- [x] Create a new GitHub repository for Angela YU Python Course Code upload.
 - [x] Do and Upload all code this repository.
 - [x] Finish Day 1 successfully
 
