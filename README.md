@@ -17,6 +17,8 @@ A day-by-day tasks and goals for the first 100 days of the course.
 
 ## Day 2
 
+- [x] Data Types
+- [ ] 
 - [ ] 
 
 ## Day 3
