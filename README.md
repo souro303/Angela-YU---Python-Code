@@ -1,4 +1,4 @@
-# Angela&nbsp;YU-Python_Course
+# Angela&nbsp;YU&nbsp;-&nbsp;Python&nbsp;Course
 Course name: 100 Days of Code: The Complete Python Pro Bootcamp
 <br>
 URL: https://www.udemy.com/course/100-days-of-code/#instructor-1
