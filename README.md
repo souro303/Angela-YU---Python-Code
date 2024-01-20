@@ -20,7 +20,7 @@ A day-by-day tasks and goals for the first 100 days of the course.
 - [x] Data Types
 - [x] BMI exercise 
 - [x] Life in Weeks Exercise
-- [x] 
+- [x] Tip Calculator
 
 ## Day 3
 
